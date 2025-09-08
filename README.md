@@ -4,7 +4,7 @@ A simple and responsive calculator built with **HTML, CSS, and JavaScript.
 It supports basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 🚀 Demo
-Check out the live version here: [Calculator on GitHub Pages]([https://Disha0413.github.io/calculator/](https://github.com/Disha0413/calculator))
+Check out the live version here: [Calculator on GitHub Pages](https://Disha0413.github.io/calculator/](https://github.com/Disha0413/calculator)
 
 📸 Preview!
 <img width="1917" height="912" alt="calculator" src="https://github.com/user-attachments/assets/fbfd1245-6d6a-4b3c-bf2f-0ebec39192d5" />
